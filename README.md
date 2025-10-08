@@ -26,7 +26,7 @@ and you get an ATS score + feedback on how to improve your resume.
 | Upload | ![Upload Screenshot](./screens/upload-page.png) |
 | Feedback | ![Feedback Screenshot](./screens/feedback.png) |
 | ATS Dashboard | ![ATS Score Screenshot](./screens/ats-dashboard.png) |
-| Auth Page | ![Auth Page Screenshot](./screens/auth.png) |
+| Auth Page | ![Auth Page Screenshot](./screens/auth-page.png) |
 
 ---
 
