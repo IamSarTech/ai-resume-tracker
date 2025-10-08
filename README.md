@@ -6,20 +6,20 @@ and you get an ATS score + feedback on how to improve your resume.
 
 ---
 
-## 🚀 Features (Web)
+##  Features (Web)
 
-- 🔐 Auth handled by Puter.js (login, logout, persistent session)
-- 📄 PDF upload & conversion to image
-- 🧠 AI resume feedback using Claude / Gemini / GPT models
-- 📊 ATS scoring and structured feedback
-- 💬 Sections for tone, content, and skills
-- 🌈 Responsive React + Tailwind UI
-- ⚙️ Routing handled with React Router v7
-- 🧩 TypeScript used throughout
+-  Auth handled by Puter.js (login, logout, persistent session)
+-  PDF upload & conversion to image
+-  AI resume feedback using Claude / Gemini / GPT models
+-  ATS scoring and structured feedback
+-  Sections for tone, content, and skills
+-  Responsive React + Tailwind UI
+-  Routing handled with React Router v7
+-  TypeScript used throughout
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 | Page | Preview |
 |------|----------|
@@ -30,7 +30,7 @@ and you get an ATS score + feedback on how to improve your resume.
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ```bash
 # Clone the repo
